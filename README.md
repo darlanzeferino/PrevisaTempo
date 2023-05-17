@@ -1,6 +1,6 @@
-# Previsão do Tempo  
+# Este é um aplicativo simples de previsão do tempo que utiliza uma API de meteorologia para fornecer informações atualizadas sobre as condições climáticas em uma determinada localização. Apresenta longitude e latitude fornecidas pelo usuário, o aplicativo exibe informações detalhadas sobre a temperatura, umidade e velocidade do vento naquela área. 
 
-#Este é um aplicativo simples de previsão do tempo que utiliza uma API de meteorologia para fornecer informações atualizadas sobre as condições climáticas em uma determinada localização. Apresenta longitude e latitude fornecidas pelo usuário, o aplicativo exibe informações detalhadas sobre a temperatura, umidade e velocidade do vento naquela área.
+
 
 Funcionalidades
 Interface simples e fácil de usar
